@@ -1,4 +1,4 @@
-// --- Klassendefinition Klaus Steinemann ---
+// --- Klassendefinition ---
 class Blinker {
   private:
     int pin;
