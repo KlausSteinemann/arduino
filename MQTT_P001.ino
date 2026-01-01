@@ -1,10 +1,14 @@
 #include <WiFi.h>          // ESP32
 #include <PubSubClient.h>
 
+
+
+
+
 // --------------------------------------------------
 // WLAN & MQTT KONFIGURATION
 // --------------------------------------------------
-const char* ssid        = "";
+const char* ssid        = "1";
 const char* password    = "";
 
 const char* mqtt_server = "192.168.2.51";   // IP oder Hostname des MQTT-Brokers
